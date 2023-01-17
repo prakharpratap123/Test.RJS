@@ -1,0 +1,60 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Prakhar Pratap",
+      "email": "prakhar01@gmail.com",
+      "mobile": "9595951218",
+      "activeStatus": true
+    },
+    {
+      "name": "Pragati Singh",
+      "email": "pragati07@gmail.com",
+      "mobile": "8989897474",
+      "activeStatus": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Rahul Kumar",
+      "email": "rahul123@gmail.com",
+      "mobile": "8989897473",
+      "activeStatus": true
+    },
+    {
+      "id": 4,
+      "name": "Pranay Singh",
+      "email": "pranay458@gmail.com",
+      "mobile": "8585414123",
+      "activeStatus": true
+    },
+    {
+      "name": "Ahmed Junaid",
+      "email": "ahmedj78@gmail.com",
+      "mobile": "8282565413",
+      "activeStatus": true,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Sandhya Gupta",
+      "email": "sandhya964@gmail.com",
+      "mobile": "7879989796",
+      "activeStatus": true
+    },
+    {
+      "name": "Srishel Jadeja",
+      "email": "jadejas802@gmail.com",
+      "mobile": "9696959485",
+      "activeStatus": true,
+      "id": 7
+    },
+    {
+      "name": "Nikhil",
+      "email": "pnikhil@gmail.com",
+      "mobile": "8989787852",
+      "activeStatus": true,
+      "id": 8
+    }
+  ]
+}
